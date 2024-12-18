@@ -27,6 +27,9 @@ If y represents the dependent variable and x the independent variable, this rela
 ```
 Developed by : SUGESHWA.S
 Register number : 24900706
+```
+
+```
 import numpy as np
 import math
 import matplotlib.pyplot as plt
@@ -67,3 +70,5 @@ plt.legend(['Regression Line','Data points'])
 ![image](https://github.com/user-attachments/assets/07f994a2-bc1d-4e08-8012-80007fba46af)
 
 # result
+
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
